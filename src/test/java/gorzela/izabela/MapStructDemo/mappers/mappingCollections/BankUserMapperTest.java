@@ -1,4 +1,4 @@
-package gorzela.izabela.MapStructDemo.mappers.mappingColections;
+package gorzela.izabela.MapStructDemo.mappers.mappingCollections;
 
 import gorzela.izabela.MapStructDemo.entities.mappingCollections.BankUser;
 import gorzela.izabela.MapStructDemo.entities.mappingCollections.BankUserDto;
