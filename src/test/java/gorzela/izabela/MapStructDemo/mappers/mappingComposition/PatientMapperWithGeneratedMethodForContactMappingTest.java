@@ -1,5 +1,6 @@
 package gorzela.izabela.MapStructDemo.mappers.mappingComposition;
 
+import gorzela.izabela.MapStructDemo.mappingComposition.case1.PatientMapperWithGeneratedMethodForContactMapping;
 import gorzela.izabela.MapStructDemo.mappingComposition.shared.Contact;
 import gorzela.izabela.MapStructDemo.mappingComposition.shared.Patient;
 import gorzela.izabela.MapStructDemo.mappingComposition.shared.PatientDto;
