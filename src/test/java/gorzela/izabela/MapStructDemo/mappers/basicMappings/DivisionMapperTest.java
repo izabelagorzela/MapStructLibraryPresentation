@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Division;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.DivisionDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case8.Division;
+import gorzela.izabela.MapStructDemo.basicMappings.case8.DivisionDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case8.DivisionMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

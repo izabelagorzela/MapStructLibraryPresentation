@@ -1,6 +1,7 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.CityDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case7.CityDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case7.CityMapper;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;

@@ -1,8 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.mappingComposition;
 
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.Contact;
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.Patient;
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.PatientDto;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.Contact;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.Patient;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.PatientDto;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Fruit;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.FruitDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case1.a.Fruit;
+import gorzela.izabela.MapStructDemo.basicMappings.case1.a.FruitDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case1.a.FruitMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

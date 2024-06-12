@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.mappingCollections;
 
-import gorzela.izabela.MapStructDemo.entities.mappingCollections.BankUser;
-import gorzela.izabela.MapStructDemo.entities.mappingCollections.BankUserDto;
+import gorzela.izabela.MapStructDemo.mappingCollections.BankUser;
+import gorzela.izabela.MapStructDemo.mappingCollections.BankUserDto;
+import gorzela.izabela.MapStructDemo.mappingCollections.BankUserMapper;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

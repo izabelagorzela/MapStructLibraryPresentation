@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Vehicle;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.VehicleDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case9.Vehicle;
+import gorzela.izabela.MapStructDemo.basicMappings.case9.VehicleDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case9.VehicleMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

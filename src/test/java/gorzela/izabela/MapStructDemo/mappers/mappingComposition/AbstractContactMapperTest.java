@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.mappingComposition;
 
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.Contact;
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.ContactDto;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.Contact;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.ContactDto;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.AbstractContactMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

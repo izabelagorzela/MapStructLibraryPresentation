@@ -1,8 +1,9 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Address;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.DeliveryAddressDto;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Person;
+import gorzela.izabela.MapStructDemo.basicMappings.case6.Address;
+import gorzela.izabela.MapStructDemo.basicMappings.case6.AddressMapper;
+import gorzela.izabela.MapStructDemo.basicMappings.case6.DeliveryAddressDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case6.Person;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

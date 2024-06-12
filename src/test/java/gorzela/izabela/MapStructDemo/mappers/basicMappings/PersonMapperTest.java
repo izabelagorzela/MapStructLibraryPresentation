@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Person;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.PersonDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case2.Person;
+import gorzela.izabela.MapStructDemo.basicMappings.case2.PersonDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case2.PersonMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

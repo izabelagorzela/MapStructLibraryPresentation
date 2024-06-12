@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Book;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.BookDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case1.d.Book;
+import gorzela.izabela.MapStructDemo.basicMappings.case1.d.BookDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case1.d.BookMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Employee;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.EmployeeDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case3.Employee;
+import gorzela.izabela.MapStructDemo.basicMappings.case3.EmployeeDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case3.EmployeeMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,8 +1,9 @@
 package gorzela.izabela.MapStructDemo.mappers.mappingComposition;
 
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.Contact;
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.Patient;
-import gorzela.izabela.MapStructDemo.entities.mappingComposition.PatientDto;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.Contact;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.Patient;
+import gorzela.izabela.MapStructDemo.mappingComposition.shared.PatientDto;
+import gorzela.izabela.MapStructDemo.mappingComposition.case3.PatientMapperWithContactMapperAsSpringComponent;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

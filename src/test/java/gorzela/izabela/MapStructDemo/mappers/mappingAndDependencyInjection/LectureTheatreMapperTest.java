@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.mappingAndDependencyInjection;
 
-import gorzela.izabela.MapStructDemo.entities.mappingAndDependencyInjection.LectureTheatre;
-import gorzela.izabela.MapStructDemo.entities.mappingAndDependencyInjection.LectureTheatreDto;
+import gorzela.izabela.MapStructDemo.mappingAndDependencyInjection.LectureTheatre;
+import gorzela.izabela.MapStructDemo.mappingAndDependencyInjection.LectureTheatreDto;
+import gorzela.izabela.MapStructDemo.mappingAndDependencyInjection.LectureTheatreMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

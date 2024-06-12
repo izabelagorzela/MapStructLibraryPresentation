@@ -1,7 +1,8 @@
 package gorzela.izabela.MapStructDemo.mappers.basicMappings;
 
-import gorzela.izabela.MapStructDemo.entities.basicMappings.Coin;
-import gorzela.izabela.MapStructDemo.entities.basicMappings.CoinDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case4.Coin;
+import gorzela.izabela.MapStructDemo.basicMappings.case4.CoinDto;
+import gorzela.izabela.MapStructDemo.basicMappings.case4.CoinMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
